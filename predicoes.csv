@@ -1,0 +1,1001 @@
+,atividade_economica,faturamento_mensal,numero_de_funcionarios,localizacao,idade,inovacao,segmento_de_cliente
+0,Comércio,713109.95,12.0,Rio de Janeiro,6.0,1.0,Bronze
+1,Comércio,790714.38,9.0,São Paulo,15.0,0.0,Bronze
+2,Comércio,1197239.33,17.0,São Paulo,4.0,9.0,Silver
+3,Indústria,449185.78,15.0,São Paulo,6.0,0.0,Starter
+4,Agronegócio,1006373.16,15.0,São Paulo,15.0,8.0,Silver
+5,Serviços,1629562.41,16.0,Rio de Janeiro,11.0,4.0,Silver
+6,Serviços,771179.95,13.0,Vitória,0.0,1.0,Starter
+7,Serviços,707837.61,16.0,São Paulo,10.0,6.0,Silver
+8,Comércio,888983.66,17.0,Belo Horizonte,10.0,1.0,Bronze
+9,Indústria,1098512.64,13.0,Rio de Janeiro,9.0,3.0,Bronze
+10,Comércio,695548.78,11.0,Rio de Janeiro,10.0,4.0,Bronze
+11,Agronegócio,556632.55,14.0,Rio de Janeiro,9.0,4.0,Silver
+12,Serviços,800123.32,15.0,Rio de Janeiro,11.0,6.0,Silver
+13,Serviços,1544423.2,15.0,Vitória,9.0,3.0,Silver
+14,Comércio,1058543.63,12.0,Belo Horizonte,8.0,8.0,Silver
+15,Comércio,783081.11,10.0,Belo Horizonte,8.0,7.0,Bronze
+16,Serviços,566156.05,15.0,Vitória,8.0,8.0,Silver
+17,Agronegócio,1047680.24,14.0,Rio de Janeiro,12.0,0.0,Bronze
+18,Indústria,836793.37,12.0,Rio de Janeiro,10.0,7.0,Bronze
+19,Agronegócio,1072955.49,14.0,São Paulo,12.0,5.0,Silver
+20,Comércio,1125089.99,16.0,Rio de Janeiro,6.0,2.0,Silver
+21,Serviços,1424196.41,17.0,Vitória,16.0,2.0,Silver
+22,Serviços,1376884.23,17.0,Rio de Janeiro,9.0,4.0,Silver
+23,Comércio,1240936.73,19.0,São Paulo,13.0,5.0,Gold
+24,Indústria,947515.95,18.0,Vitória,15.0,2.0,Silver
+25,Comércio,1237763.98,18.0,São Paulo,7.0,1.0,Bronze
+26,Comércio,1181642.63,10.0,São Paulo,7.0,7.0,Silver
+27,Comércio,782097.18,11.0,Vitória,9.0,6.0,Silver
+28,Agronegócio,111926.48,13.0,Rio de Janeiro,4.0,2.0,Starter
+29,Indústria,489936.94,13.0,Belo Horizonte,12.0,1.0,Bronze
+30,Indústria,1164187.89,13.0,São Paulo,3.0,2.0,Bronze
+31,Indústria,1418374.5,16.0,Vitória,7.0,9.0,Gold
+32,Serviços,1325421.71,14.0,Vitória,12.0,5.0,Silver
+33,Serviços,445704.4,13.0,Belo Horizonte,7.0,6.0,Silver
+34,Agronegócio,958656.71,4.0,Vitória,5.0,5.0,Bronze
+35,Serviços,1207754.02,12.0,Rio de Janeiro,12.0,3.0,Silver
+36,Agronegócio,1258551.12,15.0,Vitória,12.0,5.0,Silver
+37,Serviços,1051870.82,16.0,São Paulo,9.0,6.0,Silver
+38,Agronegócio,1116791.99,17.0,Belo Horizonte,11.0,8.0,Silver
+39,Indústria,944040.44,10.0,Belo Horizonte,7.0,7.0,Silver
+40,Comércio,878314.15,9.0,Rio de Janeiro,6.0,6.0,Bronze
+41,Serviços,645734.68,15.0,São Paulo,9.0,3.0,Silver
+42,Serviços,1197770.02,17.0,São Paulo,7.0,3.0,Silver
+43,Comércio,619332.74,17.0,Rio de Janeiro,6.0,4.0,Silver
+44,Comércio,973809.28,17.0,Rio de Janeiro,14.0,1.0,Bronze
+45,Indústria,1055849.89,16.0,Belo Horizonte,13.0,9.0,Silver
+46,Comércio,743078.06,12.0,São Paulo,12.0,3.0,Bronze
+47,Indústria,853682.38,11.0,São Paulo,8.0,0.0,Bronze
+48,Agronegócio,1188462.86,17.0,Rio de Janeiro,9.0,8.0,Silver
+49,Agronegócio,1922245.53,10.0,Rio de Janeiro,9.0,7.0,Silver
+50,Comércio,854257.82,13.0,Vitória,13.0,6.0,Silver
+51,Serviços,296714.92,8.0,Rio de Janeiro,8.0,1.0,Starter
+52,Indústria,1398126.07,12.0,São Paulo,12.0,2.0,Bronze
+53,Agronegócio,1366079.54,15.0,Vitória,12.0,3.0,Bronze
+54,Serviços,615848.03,15.0,São Paulo,3.0,0.0,Starter
+55,Comércio,95680.54,12.0,Rio de Janeiro,12.0,0.0,Starter
+56,Comércio,588181.56,16.0,Vitória,8.0,2.0,Bronze
+57,Agronegócio,2263343.91,12.0,Belo Horizonte,9.0,1.0,Bronze
+58,Serviços,992946.81,16.0,Vitória,10.0,5.0,Silver
+59,Agronegócio,990270.34,16.0,Vitória,7.0,9.0,Silver
+60,Indústria,899158.38,10.0,Rio de Janeiro,7.0,9.0,Silver
+61,Indústria,969864.84,17.0,Vitória,10.0,4.0,Silver
+62,Serviços,866778.96,15.0,Rio de Janeiro,6.0,1.0,Bronze
+63,Indústria,1523849.47,16.0,Vitória,10.0,7.0,Silver
+64,Comércio,842146.63,12.0,Vitória,8.0,8.0,Silver
+65,Serviços,431140.66,10.0,São Paulo,9.0,3.0,Bronze
+66,Comércio,1102025.65,6.0,Rio de Janeiro,10.0,5.0,Silver
+67,Indústria,837639.72,14.0,Vitória,2.0,2.0,Bronze
+68,Indústria,1539172.91,12.0,Belo Horizonte,10.0,0.0,Bronze
+69,Agronegócio,662659.12,15.0,Belo Horizonte,14.0,1.0,Bronze
+70,Indústria,873208.52,13.0,São Paulo,6.0,5.0,Bronze
+71,Comércio,1191112.82,15.0,Vitória,13.0,1.0,Bronze
+72,Agronegócio,936929.11,14.0,Rio de Janeiro,11.0,1.0,Silver
+73,Comércio,653645.84,10.0,Vitória,6.0,7.0,Bronze
+74,Serviços,914998.87,14.0,Rio de Janeiro,13.0,5.0,Silver
+75,Agronegócio,931561.93,9.0,Belo Horizonte,12.0,2.0,Silver
+76,Indústria,1489753.71,11.0,Rio de Janeiro,8.0,2.0,Bronze
+77,Serviços,389151.32,13.0,Rio de Janeiro,10.0,3.0,Bronze
+78,Comércio,734331.53,15.0,Rio de Janeiro,9.0,5.0,Bronze
+79,Serviços,1195418.56,14.0,Vitória,9.0,8.0,Silver
+80,Comércio,1077111.04,9.0,Vitória,9.0,7.0,Silver
+81,Indústria,1098366.38,13.0,São Paulo,12.0,2.0,Bronze
+82,Serviços,1578288.81,13.0,Belo Horizonte,13.0,2.0,Bronze
+83,Comércio,903521.24,18.0,São Paulo,4.0,7.0,Silver
+84,Indústria,1293348.75,18.0,Vitória,7.0,3.0,Silver
+85,Indústria,559870.94,17.0,Vitória,10.0,9.0,Silver
+86,Indústria,1378891.79,13.0,Belo Horizonte,7.0,6.0,Bronze
+87,Indústria,1124033.51,12.0,São Paulo,13.0,1.0,Bronze
+88,Serviços,1239188.62,16.0,Rio de Janeiro,10.0,0.0,Bronze
+89,Indústria,241891.6,13.0,São Paulo,11.0,6.0,Silver
+90,Agronegócio,226715.57,16.0,Belo Horizonte,9.0,0.0,Starter
+91,Serviços,316147.85,15.0,Vitória,10.0,3.0,Bronze
+92,Comércio,983027.55,19.0,São Paulo,9.0,4.0,Silver
+93,Agronegócio,1081112.62,16.0,Vitória,7.0,1.0,Silver
+94,Indústria,1351509.91,16.0,Vitória,10.0,2.0,Silver
+95,Serviços,705494.09,18.0,Vitória,12.0,8.0,Silver
+96,Agronegócio,1616152.72,16.0,Rio de Janeiro,10.0,7.0,Silver
+97,Agronegócio,121410.81,3.0,São Paulo,7.0,6.0,Starter
+98,Indústria,1379112.59,9.0,Rio de Janeiro,15.0,9.0,Silver
+99,Serviços,371592.27,14.0,Vitória,3.0,4.0,Starter
+100,Comércio,1005847.92,13.0,Vitória,5.0,1.0,Bronze
+101,Serviços,909973.14,17.0,Rio de Janeiro,8.0,1.0,Bronze
+102,Serviços,717966.54,14.0,Vitória,9.0,4.0,Silver
+103,Comércio,1079558.76,12.0,Rio de Janeiro,4.0,5.0,Bronze
+104,Indústria,348577.69,17.0,São Paulo,11.0,0.0,Bronze
+105,Agronegócio,1419109.8,13.0,São Paulo,10.0,3.0,Bronze
+106,Agronegócio,785108.04,14.0,Rio de Janeiro,7.0,8.0,Silver
+107,Serviços,2083352.96,4.0,São Paulo,7.0,3.0,Silver
+108,Serviços,705535.84,16.0,São Paulo,9.0,5.0,Bronze
+109,Indústria,1102257.75,12.0,Rio de Janeiro,14.0,9.0,Silver
+110,Comércio,184770.26,11.0,Vitória,9.0,8.0,Bronze
+111,Agronegócio,1146243.42,16.0,Belo Horizonte,12.0,7.0,Silver
+112,Agronegócio,1706382.47,15.0,São Paulo,11.0,7.0,Gold
+113,Comércio,1932443.78,13.0,São Paulo,14.0,7.0,Silver
+114,Indústria,1443795.53,14.0,Belo Horizonte,10.0,0.0,Silver
+115,Serviços,1388175.16,13.0,Belo Horizonte,8.0,2.0,Bronze
+116,Comércio,1033935.28,9.0,Belo Horizonte,14.0,8.0,Silver
+117,Serviços,1506130.56,18.0,Rio de Janeiro,9.0,0.0,Silver
+118,Agronegócio,971873.18,13.0,Rio de Janeiro,12.0,4.0,Bronze
+119,Comércio,1231155.45,11.0,Belo Horizonte,11.0,3.0,Silver
+120,Indústria,856263.52,14.0,São Paulo,11.0,0.0,Bronze
+121,Indústria,789695.82,14.0,São Paulo,16.0,2.0,Bronze
+122,Agronegócio,617845.52,13.0,São Paulo,3.0,5.0,Bronze
+123,Comércio,997025.99,19.0,Belo Horizonte,7.0,4.0,Silver
+124,Indústria,993329.43,18.0,Belo Horizonte,11.0,9.0,Silver
+125,Agronegócio,1439742.37,15.0,Belo Horizonte,7.0,2.0,Bronze
+126,Indústria,1083390.19,17.0,São Paulo,10.0,9.0,Gold
+127,Comércio,763290.3,11.0,Belo Horizonte,7.0,4.0,Silver
+128,Agronegócio,1132167.53,7.0,Rio de Janeiro,11.0,4.0,Silver
+129,Comércio,1404262.26,15.0,São Paulo,5.0,9.0,Silver
+130,Comércio,833741.24,12.0,Belo Horizonte,8.0,6.0,Silver
+131,Comércio,833486.37,18.0,São Paulo,11.0,0.0,Bronze
+132,Comércio,949003.35,12.0,São Paulo,9.0,1.0,Bronze
+133,Comércio,1383614.28,14.0,Vitória,8.0,3.0,Silver
+134,Agronegócio,603109.29,18.0,Belo Horizonte,12.0,2.0,Bronze
+135,Comércio,810709.96,14.0,Belo Horizonte,10.0,2.0,Silver
+136,Indústria,735388.51,17.0,Rio de Janeiro,10.0,9.0,Silver
+137,Agronegócio,1574289.73,16.0,Belo Horizonte,7.0,6.0,Silver
+138,Comércio,1589880.1,9.0,Belo Horizonte,7.0,0.0,Bronze
+139,Comércio,993467.4,9.0,Belo Horizonte,10.0,4.0,Silver
+140,Agronegócio,863881.59,15.0,São Paulo,10.0,7.0,Silver
+141,Serviços,332979.68,12.0,Belo Horizonte,6.0,0.0,Starter
+142,Serviços,831586.64,13.0,Vitória,16.0,1.0,Bronze
+143,Agronegócio,18421.22,14.0,São Paulo,12.0,2.0,Starter
+144,Comércio,823011.86,13.0,Belo Horizonte,7.0,9.0,Silver
+145,Serviços,643092.4,7.0,Vitória,12.0,2.0,Bronze
+146,Comércio,958451.91,9.0,Belo Horizonte,7.0,7.0,Bronze
+147,Agronegócio,1841715.96,14.0,Rio de Janeiro,6.0,0.0,Bronze
+148,Serviços,1114979.28,2.0,Rio de Janeiro,5.0,6.0,Bronze
+149,Indústria,843237.64,14.0,Belo Horizonte,7.0,6.0,Bronze
+150,Comércio,853807.58,18.0,Rio de Janeiro,11.0,2.0,Bronze
+151,Indústria,1267527.12,14.0,Rio de Janeiro,13.0,3.0,Bronze
+152,Indústria,722272.13,17.0,Rio de Janeiro,10.0,5.0,Silver
+153,Agronegócio,580396.98,15.0,São Paulo,10.0,7.0,Silver
+154,Comércio,1153343.69,13.0,Rio de Janeiro,11.0,2.0,Silver
+155,Serviços,1243667.61,14.0,Rio de Janeiro,7.0,6.0,Silver
+156,Serviços,1655885.31,9.0,Vitória,13.0,7.0,Silver
+157,Agronegócio,1563607.42,11.0,Belo Horizonte,10.0,7.0,Gold
+158,Comércio,1404873.5,13.0,Belo Horizonte,13.0,2.0,Bronze
+159,Indústria,723535.75,6.0,Vitória,15.0,2.0,Bronze
+160,Comércio,1276078.67,13.0,São Paulo,13.0,4.0,Silver
+161,Agronegócio,810805.33,15.0,São Paulo,2.0,9.0,Bronze
+162,Serviços,1555042.97,8.0,Rio de Janeiro,11.0,8.0,Silver
+163,Indústria,1142214.41,16.0,Vitória,9.0,6.0,Silver
+164,Indústria,1272544.7,16.0,Vitória,9.0,3.0,Silver
+165,Comércio,983440.97,7.0,Belo Horizonte,12.0,5.0,Silver
+166,Agronegócio,103994.8,13.0,Belo Horizonte,10.0,1.0,Starter
+167,Indústria,1236114.44,7.0,Belo Horizonte,5.0,1.0,Bronze
+168,Indústria,1565259.29,16.0,Vitória,4.0,9.0,Silver
+169,Comércio,909928.51,13.0,Vitória,11.0,7.0,Silver
+170,Comércio,1518495.54,15.0,São Paulo,16.0,9.0,Gold
+171,Indústria,1353384.97,13.0,Rio de Janeiro,7.0,6.0,Silver
+172,Indústria,1050126.53,12.0,Rio de Janeiro,4.0,2.0,Bronze
+173,Serviços,1094043.53,14.0,Vitória,8.0,4.0,Silver
+174,Agronegócio,1078181.16,20.0,Belo Horizonte,9.0,6.0,Silver
+175,Comércio,1480465.17,19.0,Belo Horizonte,8.0,0.0,Silver
+176,Serviços,267812.36,3.0,Belo Horizonte,7.0,9.0,Bronze
+177,Serviços,1754666.01,16.0,Vitória,6.0,9.0,Silver
+178,Agronegócio,1070918.51,15.0,Belo Horizonte,13.0,8.0,Gold
+179,Agronegócio,334835.36,17.0,Vitória,8.0,7.0,Silver
+180,Serviços,1290549.96,16.0,Rio de Janeiro,12.0,0.0,Bronze
+181,Agronegócio,1363863.52,11.0,São Paulo,6.0,4.0,Silver
+182,Agronegócio,834438.57,18.0,São Paulo,9.0,7.0,Silver
+183,Comércio,1301428.04,18.0,Belo Horizonte,11.0,9.0,Silver
+184,Agronegócio,148061.36,19.0,São Paulo,7.0,6.0,Bronze
+185,Comércio,850020.42,17.0,Rio de Janeiro,5.0,5.0,Silver
+186,Comércio,650241.43,10.0,Belo Horizonte,12.0,8.0,Silver
+187,Comércio,494926.48,16.0,Vitória,6.0,1.0,Starter
+188,Serviços,1057767.62,3.0,Vitória,10.0,9.0,Bronze
+189,Indústria,627273.65,17.0,Rio de Janeiro,8.0,8.0,Silver
+190,Indústria,665358.48,16.0,Vitória,10.0,9.0,Silver
+191,Indústria,740201.08,11.0,Vitória,10.0,0.0,Bronze
+192,Indústria,991762.16,19.0,Vitória,7.0,3.0,Silver
+193,Agronegócio,1230575.08,16.0,Belo Horizonte,12.0,8.0,Silver
+194,Indústria,174738.56,16.0,Rio de Janeiro,6.0,1.0,Starter
+195,Serviços,1407737.12,16.0,Vitória,10.0,8.0,Silver
+196,Comércio,1376121.85,14.0,Rio de Janeiro,7.0,1.0,Bronze
+197,Serviços,763143.44,17.0,Vitória,8.0,0.0,Bronze
+198,Comércio,1009984.8,14.0,São Paulo,10.0,4.0,Silver
+199,Indústria,965508.49,18.0,Belo Horizonte,15.0,4.0,Silver
+200,Agronegócio,1118393.81,13.0,Vitória,5.0,3.0,Bronze
+201,Serviços,1094810.2,14.0,Belo Horizonte,8.0,8.0,Silver
+202,Comércio,1093585.71,14.0,Rio de Janeiro,10.0,7.0,Silver
+203,Agronegócio,1248640.73,14.0,Rio de Janeiro,12.0,1.0,Silver
+204,Comércio,1475870.0,10.0,Rio de Janeiro,9.0,0.0,Silver
+205,Serviços,564348.59,15.0,São Paulo,8.0,7.0,Silver
+206,Serviços,768322.67,12.0,Rio de Janeiro,8.0,4.0,Silver
+207,Comércio,1032819.03,12.0,Vitória,10.0,1.0,Bronze
+208,Agronegócio,816484.64,17.0,Rio de Janeiro,4.0,5.0,Bronze
+209,Comércio,535199.75,21.0,São Paulo,13.0,0.0,Bronze
+210,Indústria,743926.38,14.0,Belo Horizonte,12.0,0.0,Silver
+211,Comércio,852074.86,16.0,São Paulo,9.0,2.0,Bronze
+212,Comércio,1194723.4,13.0,Rio de Janeiro,7.0,1.0,Bronze
+213,Comércio,849942.63,12.0,Vitória,9.0,0.0,Bronze
+214,Serviços,1330082.14,17.0,São Paulo,6.0,2.0,Silver
+215,Agronegócio,861194.33,13.0,Belo Horizonte,14.0,4.0,Silver
+216,Comércio,312067.61,15.0,São Paulo,7.0,3.0,Bronze
+217,Agronegócio,554967.95,13.0,Rio de Janeiro,9.0,9.0,Silver
+218,Agronegócio,608858.82,18.0,Vitória,10.0,1.0,Bronze
+219,Serviços,271560.28,14.0,Belo Horizonte,6.0,0.0,Bronze
+220,Indústria,1171807.82,15.0,Vitória,6.0,9.0,Silver
+221,Comércio,1063111.93,15.0,Vitória,12.0,5.0,Silver
+222,Indústria,726828.81,18.0,São Paulo,9.0,6.0,Silver
+223,Agronegócio,864076.14,17.0,Vitória,11.0,6.0,Silver
+224,Comércio,1134311.38,14.0,Rio de Janeiro,10.0,7.0,Silver
+225,Serviços,1220385.54,15.0,Belo Horizonte,8.0,8.0,Silver
+226,Indústria,988495.51,13.0,Belo Horizonte,9.0,2.0,Silver
+227,Indústria,769054.24,11.0,Rio de Janeiro,2.0,8.0,Bronze
+228,Comércio,1027960.98,13.0,Vitória,13.0,0.0,Silver
+229,Indústria,1063262.79,8.0,Vitória,9.0,3.0,Bronze
+230,Comércio,910568.59,16.0,Rio de Janeiro,7.0,0.0,Bronze
+231,Indústria,1716130.92,16.0,Rio de Janeiro,8.0,3.0,Silver
+232,Indústria,1230763.9,15.0,Belo Horizonte,7.0,7.0,Silver
+233,Agronegócio,1014070.01,11.0,Vitória,12.0,6.0,Silver
+234,Serviços,989109.67,14.0,São Paulo,8.0,2.0,Bronze
+235,Indústria,531384.99,17.0,Rio de Janeiro,7.0,7.0,Bronze
+236,Serviços,84497.94,7.0,São Paulo,5.0,5.0,Starter
+237,Comércio,1385339.46,15.0,Belo Horizonte,5.0,4.0,Silver
+238,Agronegócio,1009392.87,11.0,São Paulo,13.0,8.0,Silver
+239,Serviços,787481.84,18.0,Vitória,7.0,4.0,Silver
+240,Comércio,679053.92,13.0,Rio de Janeiro,5.0,7.0,Silver
+241,Serviços,1100001.65,19.0,Rio de Janeiro,13.0,3.0,Silver
+242,Serviços,2390677.22,10.0,Belo Horizonte,6.0,1.0,Bronze
+243,Comércio,977980.47,18.0,Belo Horizonte,9.0,2.0,Bronze
+244,Comércio,598717.71,13.0,Rio de Janeiro,5.0,2.0,Bronze
+245,Agronegócio,1025701.64,15.0,Vitória,11.0,9.0,Silver
+246,Agronegócio,788278.22,13.0,Rio de Janeiro,8.0,3.0,Silver
+247,Agronegócio,64711.22,17.0,Belo Horizonte,4.0,6.0,Bronze
+248,Indústria,1570819.07,15.0,Vitória,11.0,8.0,Gold
+249,Indústria,1993908.63,14.0,São Paulo,6.0,6.0,Silver
+250,Agronegócio,785668.64,15.0,São Paulo,9.0,9.0,Silver
+251,Indústria,1258737.22,15.0,São Paulo,13.0,0.0,Bronze
+252,Agronegócio,1320450.27,15.0,Rio de Janeiro,7.0,0.0,Silver
+253,Comércio,911615.28,15.0,Belo Horizonte,6.0,1.0,Bronze
+254,Serviços,533072.17,12.0,Belo Horizonte,9.0,6.0,Bronze
+255,Indústria,659624.71,14.0,Belo Horizonte,8.0,5.0,Silver
+256,Agronegócio,1367765.95,14.0,Belo Horizonte,8.0,7.0,Gold
+257,Indústria,1370699.52,14.0,São Paulo,10.0,6.0,Silver
+258,Serviços,757658.35,8.0,São Paulo,16.0,7.0,Bronze
+259,Serviços,1286670.98,14.0,São Paulo,10.0,0.0,Bronze
+260,Serviços,1650111.3,12.0,Vitória,9.0,5.0,Silver
+261,Comércio,803823.34,15.0,Belo Horizonte,8.0,9.0,Silver
+262,Indústria,1133686.14,10.0,São Paulo,9.0,2.0,Silver
+263,Serviços,1016606.48,15.0,Vitória,7.0,8.0,Silver
+264,Serviços,1209830.96,15.0,Vitória,10.0,2.0,Silver
+265,Agronegócio,768946.51,14.0,Rio de Janeiro,12.0,4.0,Bronze
+266,Comércio,1236870.36,14.0,Vitória,10.0,9.0,Silver
+267,Agronegócio,1373604.43,11.0,Rio de Janeiro,9.0,7.0,Silver
+268,Agronegócio,791201.94,12.0,Vitória,8.0,0.0,Bronze
+269,Comércio,470253.72,13.0,Vitória,5.0,3.0,Bronze
+270,Indústria,1244020.43,11.0,Vitória,5.0,7.0,Bronze
+271,Agronegócio,323593.53,16.0,Vitória,9.0,6.0,Silver
+272,Indústria,839638.4,12.0,São Paulo,11.0,0.0,Bronze
+273,Indústria,1460403.03,11.0,Belo Horizonte,11.0,8.0,Silver
+274,Comércio,1255764.84,17.0,São Paulo,14.0,6.0,Silver
+275,Serviços,915799.22,14.0,Belo Horizonte,13.0,5.0,Silver
+276,Serviços,1541762.74,8.0,Belo Horizonte,9.0,4.0,Silver
+277,Indústria,429688.53,13.0,Belo Horizonte,8.0,7.0,Silver
+278,Agronegócio,800004.44,17.0,Rio de Janeiro,9.0,5.0,Bronze
+279,Indústria,1017325.17,18.0,Vitória,12.0,6.0,Silver
+280,Serviços,60516.83,14.0,Rio de Janeiro,9.0,4.0,Bronze
+281,Indústria,1207098.74,12.0,Vitória,10.0,9.0,Silver
+282,Indústria,791704.75,13.0,Vitória,12.0,2.0,Bronze
+283,Agronegócio,1655693.05,13.0,Vitória,12.0,0.0,Silver
+284,Agronegócio,1281521.01,6.0,Rio de Janeiro,12.0,7.0,Silver
+285,Comércio,1902144.56,10.0,Vitória,9.0,7.0,Silver
+286,Serviços,853723.67,8.0,Rio de Janeiro,10.0,8.0,Silver
+287,Serviços,1344366.16,12.0,Vitória,5.0,8.0,Bronze
+288,Indústria,884940.1,17.0,São Paulo,13.0,4.0,Silver
+289,Agronegócio,625599.74,15.0,Rio de Janeiro,7.0,2.0,Bronze
+290,Indústria,908289.25,16.0,Belo Horizonte,13.0,1.0,Bronze
+291,Comércio,1032183.53,14.0,Belo Horizonte,11.0,8.0,Silver
+292,Indústria,2107306.42,11.0,Belo Horizonte,7.0,1.0,Bronze
+293,Serviços,481595.99,13.0,Rio de Janeiro,7.0,3.0,Silver
+294,Serviços,663326.41,18.0,São Paulo,16.0,9.0,Silver
+295,Comércio,1588245.25,10.0,Rio de Janeiro,11.0,0.0,Bronze
+296,Indústria,921770.07,9.0,Rio de Janeiro,12.0,6.0,Bronze
+297,Agronegócio,163682.26,18.0,Vitória,15.0,4.0,Bronze
+298,Agronegócio,1247176.41,10.0,Rio de Janeiro,4.0,8.0,Bronze
+299,Comércio,1212901.4,15.0,Rio de Janeiro,7.0,1.0,Bronze
+300,Serviços,851080.66,15.0,Belo Horizonte,12.0,5.0,Silver
+301,Indústria,942883.08,15.0,São Paulo,7.0,8.0,Silver
+302,Comércio,1707923.52,6.0,São Paulo,11.0,6.0,Silver
+303,Agronegócio,1177227.98,16.0,Rio de Janeiro,13.0,1.0,Bronze
+304,Agronegócio,499441.3,13.0,Vitória,12.0,1.0,Bronze
+305,Indústria,1395925.1,14.0,Rio de Janeiro,11.0,8.0,Silver
+306,Indústria,1456142.58,15.0,Rio de Janeiro,9.0,8.0,Gold
+307,Comércio,693629.48,15.0,Rio de Janeiro,9.0,3.0,Silver
+308,Comércio,1209549.81,12.0,Rio de Janeiro,6.0,5.0,Silver
+309,Comércio,1713025.38,14.0,Belo Horizonte,4.0,2.0,Silver
+310,Indústria,1292741.18,11.0,Belo Horizonte,14.0,0.0,Silver
+311,Indústria,911521.72,18.0,São Paulo,11.0,3.0,Silver
+312,Serviços,1094337.38,15.0,Rio de Janeiro,11.0,1.0,Bronze
+313,Agronegócio,880090.72,13.0,Belo Horizonte,6.0,1.0,Bronze
+314,Serviços,1015654.17,14.0,Rio de Janeiro,7.0,2.0,Bronze
+315,Agronegócio,1398871.6,14.0,Vitória,14.0,0.0,Bronze
+316,Comércio,1327130.38,14.0,Rio de Janeiro,6.0,7.0,Silver
+317,Indústria,1129203.5,18.0,São Paulo,11.0,3.0,Silver
+318,Agronegócio,941612.29,13.0,Rio de Janeiro,7.0,9.0,Silver
+319,Serviços,854382.67,15.0,Rio de Janeiro,12.0,1.0,Silver
+320,Serviços,1318621.28,14.0,Rio de Janeiro,9.0,2.0,Silver
+321,Indústria,1458066.67,20.0,São Paulo,9.0,6.0,Silver
+322,Comércio,1728544.72,18.0,São Paulo,10.0,2.0,Silver
+323,Agronegócio,1161568.8,9.0,Belo Horizonte,7.0,7.0,Bronze
+324,Indústria,780121.59,14.0,São Paulo,6.0,7.0,Bronze
+325,Indústria,1298316.46,16.0,Belo Horizonte,12.0,6.0,Silver
+326,Indústria,1337880.08,18.0,Vitória,10.0,9.0,Silver
+327,Serviços,231562.65,13.0,Vitória,9.0,6.0,Bronze
+328,Indústria,823374.93,10.0,Belo Horizonte,6.0,1.0,Starter
+329,Serviços,356229.62,14.0,Rio de Janeiro,8.0,9.0,Bronze
+330,Agronegócio,1532181.14,8.0,Belo Horizonte,2.0,6.0,Bronze
+331,Agronegócio,1006625.13,12.0,Rio de Janeiro,14.0,1.0,Bronze
+332,Indústria,1104801.34,12.0,Belo Horizonte,5.0,3.0,Bronze
+333,Agronegócio,722920.8,8.0,São Paulo,9.0,8.0,Silver
+334,Serviços,734238.96,15.0,Rio de Janeiro,10.0,3.0,Bronze
+335,Comércio,805436.7,15.0,Vitória,3.0,4.0,Bronze
+336,Agronegócio,1647453.28,17.0,São Paulo,11.0,2.0,Silver
+337,Comércio,898610.61,11.0,Vitória,9.0,0.0,Bronze
+338,Serviços,626629.6,17.0,Vitória,10.0,9.0,Silver
+339,Serviços,1794352.93,3.0,São Paulo,12.0,9.0,Silver
+340,Indústria,1043981.61,11.0,Belo Horizonte,10.0,9.0,Silver
+341,Serviços,665572.04,15.0,São Paulo,13.0,4.0,Silver
+342,Comércio,932845.17,11.0,Vitória,8.0,6.0,Bronze
+343,Agronegócio,1569380.97,10.0,Vitória,9.0,1.0,Bronze
+344,Indústria,1216938.1,17.0,Vitória,6.0,2.0,Bronze
+345,Comércio,1093042.03,9.0,Belo Horizonte,12.0,7.0,Silver
+346,Comércio,1348626.67,12.0,Rio de Janeiro,10.0,0.0,Bronze
+347,Indústria,203045.12,12.0,Rio de Janeiro,6.0,6.0,Bronze
+348,Serviços,602393.66,17.0,Belo Horizonte,10.0,3.0,Silver
+349,Serviços,1010038.24,14.0,São Paulo,11.0,8.0,Silver
+350,Indústria,929711.04,17.0,São Paulo,8.0,5.0,Bronze
+351,Agronegócio,1116387.07,12.0,Belo Horizonte,7.0,0.0,Bronze
+352,Indústria,1683711.93,16.0,Belo Horizonte,13.0,6.0,Silver
+353,Agronegócio,626776.88,17.0,São Paulo,11.0,7.0,Silver
+354,Indústria,1219653.63,12.0,São Paulo,7.0,5.0,Silver
+355,Indústria,1314583.32,14.0,Rio de Janeiro,8.0,6.0,Silver
+356,Comércio,1535533.76,14.0,São Paulo,10.0,3.0,Silver
+357,Comércio,1936486.41,18.0,Rio de Janeiro,10.0,5.0,Gold
+358,Indústria,1382271.23,15.0,Vitória,13.0,7.0,Silver
+359,Indústria,1238547.54,13.0,Vitória,9.0,3.0,Bronze
+360,Agronegócio,944765.54,15.0,Rio de Janeiro,8.0,7.0,Bronze
+361,Agronegócio,1057982.09,17.0,Vitória,7.0,0.0,Bronze
+362,Indústria,1046845.34,2.0,Vitória,9.0,8.0,Bronze
+363,Agronegócio,333127.92,17.0,São Paulo,10.0,8.0,Bronze
+364,Indústria,1189103.92,16.0,São Paulo,8.0,5.0,Silver
+365,Comércio,1003981.55,13.0,Rio de Janeiro,8.0,2.0,Bronze
+366,Comércio,629572.6,16.0,Vitória,8.0,1.0,Bronze
+367,Indústria,753664.57,14.0,Rio de Janeiro,8.0,0.0,Starter
+368,Serviços,549149.57,9.0,São Paulo,9.0,8.0,Bronze
+369,Indústria,1288325.43,15.0,São Paulo,15.0,4.0,Silver
+370,Agronegócio,928727.24,10.0,Rio de Janeiro,11.0,2.0,Silver
+371,Comércio,1843761.24,17.0,Belo Horizonte,15.0,1.0,Bronze
+372,Agronegócio,244825.0,15.0,Vitória,11.0,4.0,Bronze
+373,Indústria,656377.77,10.0,Vitória,10.0,4.0,Silver
+374,Comércio,1574626.03,11.0,Vitória,13.0,9.0,Gold
+375,Agronegócio,1439950.65,10.0,Vitória,12.0,7.0,Silver
+376,Serviços,721463.53,16.0,Rio de Janeiro,6.0,5.0,Bronze
+377,Serviços,1436673.0,12.0,São Paulo,12.0,3.0,Silver
+378,Comércio,841346.81,14.0,Vitória,7.0,2.0,Bronze
+379,Indústria,1485834.15,14.0,São Paulo,6.0,6.0,Silver
+380,Comércio,1459878.0,15.0,Vitória,4.0,5.0,Silver
+381,Agronegócio,1349860.72,17.0,São Paulo,10.0,9.0,Silver
+382,Indústria,1952250.45,12.0,Vitória,8.0,0.0,Bronze
+383,Serviços,1027285.87,15.0,Vitória,8.0,8.0,Silver
+384,Comércio,1053130.05,19.0,São Paulo,8.0,9.0,Silver
+385,Serviços,990690.47,16.0,São Paulo,7.0,3.0,Bronze
+386,Serviços,1118793.07,19.0,Belo Horizonte,8.0,2.0,Bronze
+387,Agronegócio,1902367.98,15.0,Rio de Janeiro,11.0,7.0,Gold
+388,Indústria,981440.96,14.0,Rio de Janeiro,8.0,8.0,Silver
+389,Agronegócio,506672.67,14.0,Vitória,12.0,8.0,Silver
+390,Indústria,1735063.39,10.0,São Paulo,8.0,6.0,Silver
+391,Comércio,686102.63,12.0,Vitória,16.0,3.0,Silver
+392,Indústria,715243.69,13.0,São Paulo,12.0,1.0,Bronze
+393,Serviços,1193834.4,15.0,Vitória,11.0,5.0,Silver
+394,Agronegócio,1743573.32,17.0,Belo Horizonte,12.0,6.0,Silver
+395,Comércio,1167501.7,17.0,Belo Horizonte,10.0,7.0,Silver
+396,Agronegócio,989883.92,13.0,São Paulo,16.0,1.0,Silver
+397,Comércio,1058929.85,11.0,São Paulo,7.0,8.0,Bronze
+398,Serviços,673865.11,9.0,Rio de Janeiro,11.0,7.0,Bronze
+399,Serviços,591593.3,16.0,Vitória,11.0,6.0,Silver
+400,Agronegócio,916748.4,19.0,Vitória,5.0,2.0,Silver
+401,Serviços,1694996.88,15.0,Rio de Janeiro,10.0,4.0,Silver
+402,Comércio,550053.3,10.0,Vitória,10.0,9.0,Silver
+403,Serviços,1195575.01,16.0,Belo Horizonte,8.0,1.0,Bronze
+404,Comércio,1867234.3,12.0,São Paulo,8.0,4.0,Silver
+405,Comércio,1077943.15,12.0,Vitória,12.0,9.0,Silver
+406,Serviços,1228736.22,14.0,Belo Horizonte,12.0,8.0,Silver
+407,Comércio,1003381.76,12.0,Vitória,7.0,3.0,Bronze
+408,Agronegócio,603305.03,14.0,Rio de Janeiro,12.0,1.0,Bronze
+409,Serviços,1220941.7,16.0,Belo Horizonte,14.0,1.0,Bronze
+410,Agronegócio,545859.25,14.0,Vitória,10.0,2.0,Bronze
+411,Serviços,1124754.89,10.0,São Paulo,6.0,6.0,Silver
+412,Agronegócio,1167866.74,17.0,Belo Horizonte,8.0,5.0,Silver
+413,Indústria,1362343.3,14.0,Belo Horizonte,8.0,7.0,Silver
+414,Serviços,1103149.26,13.0,São Paulo,14.0,6.0,Silver
+415,Agronegócio,743480.47,11.0,São Paulo,3.0,4.0,Bronze
+416,Serviços,434194.11,10.0,Vitória,11.0,6.0,Bronze
+417,Indústria,479869.9,16.0,Vitória,12.0,3.0,Bronze
+418,Serviços,1071831.13,14.0,Vitória,13.0,9.0,Silver
+419,Comércio,593531.52,12.0,Belo Horizonte,6.0,3.0,Bronze
+420,Comércio,1492116.94,15.0,Vitória,6.0,7.0,Silver
+421,Indústria,658580.22,18.0,Belo Horizonte,13.0,3.0,Silver
+422,Indústria,869605.13,13.0,Rio de Janeiro,9.0,4.0,Bronze
+423,Serviços,879688.87,15.0,Belo Horizonte,8.0,3.0,Bronze
+424,Serviços,725022.65,13.0,Rio de Janeiro,11.0,1.0,Bronze
+425,Comércio,1316076.16,16.0,São Paulo,11.0,3.0,Silver
+426,Comércio,1056532.62,13.0,São Paulo,8.0,5.0,Silver
+427,Serviços,836973.51,17.0,São Paulo,11.0,6.0,Silver
+428,Comércio,79015.03,5.0,Vitória,11.0,2.0,Starter
+429,Agronegócio,1780802.99,13.0,São Paulo,7.0,7.0,Gold
+430,Agronegócio,1328577.86,14.0,Vitória,10.0,3.0,Bronze
+431,Serviços,435489.53,14.0,São Paulo,13.0,0.0,Bronze
+432,Agronegócio,844782.42,5.0,Vitória,9.0,1.0,Starter
+433,Indústria,1298004.31,15.0,Belo Horizonte,12.0,2.0,Silver
+434,Comércio,1662826.01,13.0,Vitória,9.0,9.0,Silver
+435,Comércio,970959.21,15.0,Vitória,11.0,5.0,Bronze
+436,Agronegócio,869638.69,18.0,Rio de Janeiro,10.0,6.0,Silver
+437,Comércio,1009839.03,14.0,São Paulo,15.0,6.0,Silver
+438,Serviços,1021085.99,12.0,São Paulo,10.0,1.0,Bronze
+439,Comércio,1239494.05,14.0,Rio de Janeiro,4.0,6.0,Bronze
+440,Comércio,1536684.3,15.0,Vitória,13.0,5.0,Gold
+441,Comércio,1068322.53,13.0,Rio de Janeiro,7.0,9.0,Silver
+442,Comércio,983540.2,13.0,Vitória,10.0,6.0,Silver
+443,Comércio,880695.38,14.0,Belo Horizonte,10.0,9.0,Silver
+444,Agronegócio,119950.58,15.0,Rio de Janeiro,8.0,4.0,Bronze
+445,Serviços,1346978.95,14.0,Rio de Janeiro,10.0,2.0,Bronze
+446,Agronegócio,1752009.96,13.0,Vitória,5.0,0.0,Bronze
+447,Comércio,1061121.78,14.0,Belo Horizonte,16.0,4.0,Silver
+448,Indústria,1358513.26,17.0,Belo Horizonte,8.0,8.0,Silver
+449,Indústria,254263.2,13.0,São Paulo,7.0,5.0,Bronze
+450,Comércio,475032.23,16.0,Rio de Janeiro,10.0,1.0,Bronze
+451,Agronegócio,1330014.86,12.0,Vitória,10.0,5.0,Silver
+452,Agronegócio,1042344.43,12.0,Vitória,5.0,1.0,Bronze
+453,Serviços,429809.37,12.0,São Paulo,11.0,6.0,Bronze
+454,Comércio,1198949.59,15.0,Rio de Janeiro,5.0,1.0,Bronze
+455,Agronegócio,1024828.18,14.0,Vitória,10.0,4.0,Silver
+456,Serviços,1878689.05,17.0,Rio de Janeiro,10.0,7.0,Silver
+457,Comércio,1635893.76,18.0,Belo Horizonte,4.0,6.0,Silver
+458,Agronegócio,1147381.02,17.0,Belo Horizonte,6.0,4.0,Silver
+459,Comércio,1155825.73,13.0,São Paulo,11.0,7.0,Silver
+460,Serviços,1295183.25,17.0,São Paulo,9.0,6.0,Silver
+461,Comércio,654953.48,11.0,São Paulo,15.0,7.0,Silver
+462,Comércio,1130027.72,8.0,Vitória,7.0,5.0,Silver
+463,Serviços,25576.28,12.0,Rio de Janeiro,16.0,2.0,Starter
+464,Indústria,1227045.41,15.0,São Paulo,11.0,0.0,Bronze
+465,Indústria,805517.39,11.0,Rio de Janeiro,12.0,1.0,Bronze
+466,Serviços,1169132.47,15.0,Rio de Janeiro,11.0,3.0,Silver
+467,Agronegócio,1109076.58,15.0,Vitória,10.0,8.0,Silver
+468,Comércio,695368.23,15.0,Rio de Janeiro,15.0,2.0,Bronze
+469,Comércio,1355673.25,15.0,Rio de Janeiro,13.0,5.0,Silver
+470,Indústria,809933.42,16.0,Rio de Janeiro,7.0,0.0,Bronze
+471,Comércio,1229181.97,11.0,Vitória,8.0,0.0,Bronze
+472,Serviços,1693342.51,14.0,Belo Horizonte,4.0,7.0,Silver
+473,Agronegócio,618250.8,9.0,Belo Horizonte,11.0,8.0,Silver
+474,Agronegócio,811781.56,14.0,Rio de Janeiro,6.0,4.0,Bronze
+475,Comércio,745302.32,13.0,Rio de Janeiro,9.0,3.0,Bronze
+476,Serviços,1052598.3,15.0,São Paulo,11.0,4.0,Bronze
+477,Agronegócio,1103740.65,18.0,Belo Horizonte,11.0,8.0,Silver
+478,Serviços,1810013.45,12.0,Vitória,8.0,0.0,Bronze
+479,Indústria,1334308.97,14.0,São Paulo,6.0,2.0,Bronze
+480,Agronegócio,1425718.91,17.0,Vitória,5.0,5.0,Bronze
+481,Comércio,1662467.08,8.0,Vitória,1.0,7.0,Bronze
+482,Agronegócio,1681458.49,14.0,Belo Horizonte,13.0,8.0,Gold
+483,Serviços,1509385.85,13.0,Belo Horizonte,11.0,0.0,Silver
+484,Comércio,1533062.06,18.0,Vitória,5.0,9.0,Silver
+485,Comércio,786224.94,9.0,São Paulo,12.0,2.0,Silver
+486,Agronegócio,445571.87,15.0,São Paulo,13.0,1.0,Bronze
+487,Serviços,505124.91,14.0,Vitória,7.0,5.0,Bronze
+488,Indústria,2006688.81,13.0,São Paulo,13.0,5.0,Silver
+489,Agronegócio,416429.3,14.0,São Paulo,7.0,1.0,Starter
+490,Indústria,215580.61,11.0,Belo Horizonte,7.0,3.0,Starter
+491,Serviços,1050776.57,14.0,Vitória,8.0,0.0,Bronze
+492,Comércio,785671.05,15.0,Vitória,9.0,2.0,Bronze
+493,Serviços,658330.45,20.0,Belo Horizonte,4.0,8.0,Bronze
+494,Agronegócio,1643153.26,14.0,Rio de Janeiro,10.0,1.0,Bronze
+495,Serviços,1581841.42,17.0,Rio de Janeiro,8.0,2.0,Silver
+496,Indústria,1291309.57,9.0,São Paulo,6.0,9.0,Bronze
+497,Serviços,2211489.85,10.0,Belo Horizonte,10.0,0.0,Bronze
+498,Agronegócio,1460860.46,12.0,Rio de Janeiro,5.0,3.0,Silver
+499,Indústria,173684.43,13.0,Belo Horizonte,4.0,9.0,Bronze
+0,,,,,,,Bronze
+1,,,,,,,Silver
+2,,,,,,,Silver
+3,,,,,,,Silver
+4,,,,,,,Silver
+5,,,,,,,Silver
+6,,,,,,,Silver
+7,,,,,,,Silver
+8,,,,,,,Silver
+9,,,,,,,Silver
+10,,,,,,,Bronze
+11,,,,,,,Silver
+12,,,,,,,Silver
+13,,,,,,,Silver
+14,,,,,,,Silver
+15,,,,,,,Silver
+16,,,,,,,Silver
+17,,,,,,,Silver
+18,,,,,,,Silver
+19,,,,,,,Silver
+20,,,,,,,Bronze
+21,,,,,,,Silver
+22,,,,,,,Silver
+23,,,,,,,Silver
+24,,,,,,,Silver
+25,,,,,,,Silver
+26,,,,,,,Silver
+27,,,,,,,Silver
+28,,,,,,,Silver
+29,,,,,,,Silver
+30,,,,,,,Silver
+31,,,,,,,Silver
+32,,,,,,,Silver
+33,,,,,,,Silver
+34,,,,,,,Silver
+35,,,,,,,Silver
+36,,,,,,,Silver
+37,,,,,,,Silver
+38,,,,,,,Silver
+39,,,,,,,Silver
+40,,,,,,,Bronze
+41,,,,,,,Silver
+42,,,,,,,Silver
+43,,,,,,,Bronze
+44,,,,,,,Bronze
+45,,,,,,,Silver
+46,,,,,,,Silver
+47,,,,,,,Silver
+48,,,,,,,Silver
+49,,,,,,,Silver
+50,,,,,,,Silver
+51,,,,,,,Silver
+52,,,,,,,Silver
+53,,,,,,,Silver
+54,,,,,,,Silver
+55,,,,,,,Bronze
+56,,,,,,,Silver
+57,,,,,,,Silver
+58,,,,,,,Silver
+59,,,,,,,Silver
+60,,,,,,,Silver
+61,,,,,,,Silver
+62,,,,,,,Silver
+63,,,,,,,Silver
+64,,,,,,,Silver
+65,,,,,,,Silver
+66,,,,,,,Bronze
+67,,,,,,,Silver
+68,,,,,,,Silver
+69,,,,,,,Silver
+70,,,,,,,Silver
+71,,,,,,,Silver
+72,,,,,,,Silver
+73,,,,,,,Silver
+74,,,,,,,Silver
+75,,,,,,,Silver
+76,,,,,,,Silver
+77,,,,,,,Silver
+78,,,,,,,Bronze
+79,,,,,,,Silver
+80,,,,,,,Silver
+81,,,,,,,Silver
+82,,,,,,,Silver
+83,,,,,,,Silver
+84,,,,,,,Silver
+85,,,,,,,Silver
+86,,,,,,,Silver
+87,,,,,,,Silver
+88,,,,,,,Silver
+89,,,,,,,Silver
+90,,,,,,,Silver
+91,,,,,,,Silver
+92,,,,,,,Silver
+93,,,,,,,Silver
+94,,,,,,,Silver
+95,,,,,,,Silver
+96,,,,,,,Silver
+97,,,,,,,Silver
+98,,,,,,,Silver
+99,,,,,,,Silver
+100,,,,,,,Silver
+101,,,,,,,Silver
+102,,,,,,,Silver
+103,,,,,,,Bronze
+104,,,,,,,Silver
+105,,,,,,,Silver
+106,,,,,,,Silver
+107,,,,,,,Silver
+108,,,,,,,Silver
+109,,,,,,,Silver
+110,,,,,,,Silver
+111,,,,,,,Silver
+112,,,,,,,Silver
+113,,,,,,,Silver
+114,,,,,,,Silver
+115,,,,,,,Silver
+116,,,,,,,Silver
+117,,,,,,,Silver
+118,,,,,,,Silver
+119,,,,,,,Silver
+120,,,,,,,Silver
+121,,,,,,,Silver
+122,,,,,,,Silver
+123,,,,,,,Silver
+124,,,,,,,Silver
+125,,,,,,,Silver
+126,,,,,,,Silver
+127,,,,,,,Silver
+128,,,,,,,Silver
+129,,,,,,,Silver
+130,,,,,,,Silver
+131,,,,,,,Silver
+132,,,,,,,Silver
+133,,,,,,,Silver
+134,,,,,,,Silver
+135,,,,,,,Silver
+136,,,,,,,Silver
+137,,,,,,,Silver
+138,,,,,,,Silver
+139,,,,,,,Silver
+140,,,,,,,Silver
+141,,,,,,,Silver
+142,,,,,,,Silver
+143,,,,,,,Silver
+144,,,,,,,Silver
+145,,,,,,,Silver
+146,,,,,,,Silver
+147,,,,,,,Silver
+148,,,,,,,Silver
+149,,,,,,,Silver
+150,,,,,,,Bronze
+151,,,,,,,Silver
+152,,,,,,,Silver
+153,,,,,,,Silver
+154,,,,,,,Bronze
+155,,,,,,,Silver
+156,,,,,,,Silver
+157,,,,,,,Silver
+158,,,,,,,Silver
+159,,,,,,,Silver
+160,,,,,,,Silver
+161,,,,,,,Silver
+162,,,,,,,Silver
+163,,,,,,,Silver
+164,,,,,,,Silver
+165,,,,,,,Silver
+166,,,,,,,Silver
+167,,,,,,,Silver
+168,,,,,,,Silver
+169,,,,,,,Silver
+170,,,,,,,Silver
+171,,,,,,,Silver
+172,,,,,,,Silver
+173,,,,,,,Silver
+174,,,,,,,Silver
+175,,,,,,,Silver
+176,,,,,,,Silver
+177,,,,,,,Silver
+178,,,,,,,Silver
+179,,,,,,,Silver
+180,,,,,,,Silver
+181,,,,,,,Silver
+182,,,,,,,Silver
+183,,,,,,,Silver
+184,,,,,,,Silver
+185,,,,,,,Bronze
+186,,,,,,,Silver
+187,,,,,,,Silver
+188,,,,,,,Silver
+189,,,,,,,Silver
+190,,,,,,,Silver
+191,,,,,,,Silver
+192,,,,,,,Silver
+193,,,,,,,Silver
+194,,,,,,,Silver
+195,,,,,,,Silver
+196,,,,,,,Bronze
+197,,,,,,,Silver
+198,,,,,,,Silver
+199,,,,,,,Silver
+200,,,,,,,Silver
+201,,,,,,,Silver
+202,,,,,,,Bronze
+203,,,,,,,Silver
+204,,,,,,,Bronze
+205,,,,,,,Silver
+206,,,,,,,Silver
+207,,,,,,,Silver
+208,,,,,,,Silver
+209,,,,,,,Silver
+210,,,,,,,Silver
+211,,,,,,,Silver
+212,,,,,,,Bronze
+213,,,,,,,Silver
+214,,,,,,,Silver
+215,,,,,,,Silver
+216,,,,,,,Silver
+217,,,,,,,Silver
+218,,,,,,,Silver
+219,,,,,,,Silver
+220,,,,,,,Silver
+221,,,,,,,Silver
+222,,,,,,,Silver
+223,,,,,,,Silver
+224,,,,,,,Bronze
+225,,,,,,,Silver
+226,,,,,,,Silver
+227,,,,,,,Silver
+228,,,,,,,Silver
+229,,,,,,,Silver
+230,,,,,,,Bronze
+231,,,,,,,Silver
+232,,,,,,,Silver
+233,,,,,,,Silver
+234,,,,,,,Silver
+235,,,,,,,Silver
+236,,,,,,,Silver
+237,,,,,,,Silver
+238,,,,,,,Silver
+239,,,,,,,Silver
+240,,,,,,,Bronze
+241,,,,,,,Silver
+242,,,,,,,Silver
+243,,,,,,,Silver
+244,,,,,,,Bronze
+245,,,,,,,Silver
+246,,,,,,,Silver
+247,,,,,,,Silver
+248,,,,,,,Silver
+249,,,,,,,Silver
+250,,,,,,,Silver
+251,,,,,,,Silver
+252,,,,,,,Silver
+253,,,,,,,Silver
+254,,,,,,,Silver
+255,,,,,,,Silver
+256,,,,,,,Silver
+257,,,,,,,Silver
+258,,,,,,,Silver
+259,,,,,,,Silver
+260,,,,,,,Silver
+261,,,,,,,Silver
+262,,,,,,,Silver
+263,,,,,,,Silver
+264,,,,,,,Silver
+265,,,,,,,Silver
+266,,,,,,,Silver
+267,,,,,,,Silver
+268,,,,,,,Silver
+269,,,,,,,Silver
+270,,,,,,,Silver
+271,,,,,,,Silver
+272,,,,,,,Silver
+273,,,,,,,Silver
+274,,,,,,,Silver
+275,,,,,,,Silver
+276,,,,,,,Silver
+277,,,,,,,Silver
+278,,,,,,,Silver
+279,,,,,,,Silver
+280,,,,,,,Silver
+281,,,,,,,Silver
+282,,,,,,,Silver
+283,,,,,,,Silver
+284,,,,,,,Silver
+285,,,,,,,Silver
+286,,,,,,,Silver
+287,,,,,,,Silver
+288,,,,,,,Silver
+289,,,,,,,Silver
+290,,,,,,,Silver
+291,,,,,,,Silver
+292,,,,,,,Silver
+293,,,,,,,Silver
+294,,,,,,,Silver
+295,,,,,,,Bronze
+296,,,,,,,Silver
+297,,,,,,,Silver
+298,,,,,,,Silver
+299,,,,,,,Bronze
+300,,,,,,,Silver
+301,,,,,,,Silver
+302,,,,,,,Silver
+303,,,,,,,Silver
+304,,,,,,,Silver
+305,,,,,,,Silver
+306,,,,,,,Silver
+307,,,,,,,Bronze
+308,,,,,,,Bronze
+309,,,,,,,Silver
+310,,,,,,,Silver
+311,,,,,,,Silver
+312,,,,,,,Silver
+313,,,,,,,Silver
+314,,,,,,,Silver
+315,,,,,,,Silver
+316,,,,,,,Bronze
+317,,,,,,,Silver
+318,,,,,,,Silver
+319,,,,,,,Silver
+320,,,,,,,Silver
+321,,,,,,,Silver
+322,,,,,,,Silver
+323,,,,,,,Silver
+324,,,,,,,Silver
+325,,,,,,,Silver
+326,,,,,,,Silver
+327,,,,,,,Silver
+328,,,,,,,Silver
+329,,,,,,,Silver
+330,,,,,,,Silver
+331,,,,,,,Silver
+332,,,,,,,Silver
+333,,,,,,,Silver
+334,,,,,,,Silver
+335,,,,,,,Silver
+336,,,,,,,Silver
+337,,,,,,,Silver
+338,,,,,,,Silver
+339,,,,,,,Silver
+340,,,,,,,Silver
+341,,,,,,,Silver
+342,,,,,,,Silver
+343,,,,,,,Silver
+344,,,,,,,Silver
+345,,,,,,,Silver
+346,,,,,,,Bronze
+347,,,,,,,Silver
+348,,,,,,,Silver
+349,,,,,,,Silver
+350,,,,,,,Silver
+351,,,,,,,Silver
+352,,,,,,,Silver
+353,,,,,,,Silver
+354,,,,,,,Silver
+355,,,,,,,Silver
+356,,,,,,,Silver
+357,,,,,,,Bronze
+358,,,,,,,Silver
+359,,,,,,,Silver
+360,,,,,,,Silver
+361,,,,,,,Silver
+362,,,,,,,Silver
+363,,,,,,,Silver
+364,,,,,,,Silver
+365,,,,,,,Bronze
+366,,,,,,,Silver
+367,,,,,,,Silver
+368,,,,,,,Silver
+369,,,,,,,Silver
+370,,,,,,,Silver
+371,,,,,,,Silver
+372,,,,,,,Silver
+373,,,,,,,Silver
+374,,,,,,,Silver
+375,,,,,,,Silver
+376,,,,,,,Silver
+377,,,,,,,Silver
+378,,,,,,,Silver
+379,,,,,,,Silver
+380,,,,,,,Silver
+381,,,,,,,Silver
+382,,,,,,,Silver
+383,,,,,,,Silver
+384,,,,,,,Silver
+385,,,,,,,Silver
+386,,,,,,,Silver
+387,,,,,,,Silver
+388,,,,,,,Silver
+389,,,,,,,Silver
+390,,,,,,,Silver
+391,,,,,,,Silver
+392,,,,,,,Silver
+393,,,,,,,Silver
+394,,,,,,,Silver
+395,,,,,,,Silver
+396,,,,,,,Silver
+397,,,,,,,Silver
+398,,,,,,,Silver
+399,,,,,,,Silver
+400,,,,,,,Silver
+401,,,,,,,Silver
+402,,,,,,,Silver
+403,,,,,,,Silver
+404,,,,,,,Silver
+405,,,,,,,Silver
+406,,,,,,,Silver
+407,,,,,,,Silver
+408,,,,,,,Silver
+409,,,,,,,Silver
+410,,,,,,,Silver
+411,,,,,,,Silver
+412,,,,,,,Silver
+413,,,,,,,Silver
+414,,,,,,,Silver
+415,,,,,,,Silver
+416,,,,,,,Silver
+417,,,,,,,Silver
+418,,,,,,,Silver
+419,,,,,,,Silver
+420,,,,,,,Silver
+421,,,,,,,Silver
+422,,,,,,,Silver
+423,,,,,,,Silver
+424,,,,,,,Silver
+425,,,,,,,Silver
+426,,,,,,,Silver
+427,,,,,,,Silver
+428,,,,,,,Silver
+429,,,,,,,Silver
+430,,,,,,,Silver
+431,,,,,,,Silver
+432,,,,,,,Silver
+433,,,,,,,Silver
+434,,,,,,,Silver
+435,,,,,,,Silver
+436,,,,,,,Silver
+437,,,,,,,Silver
+438,,,,,,,Silver
+439,,,,,,,Bronze
+440,,,,,,,Silver
+441,,,,,,,Bronze
+442,,,,,,,Silver
+443,,,,,,,Silver
+444,,,,,,,Silver
+445,,,,,,,Silver
+446,,,,,,,Silver
+447,,,,,,,Silver
+448,,,,,,,Silver
+449,,,,,,,Silver
+450,,,,,,,Bronze
+451,,,,,,,Silver
+452,,,,,,,Silver
+453,,,,,,,Silver
+454,,,,,,,Bronze
+455,,,,,,,Silver
+456,,,,,,,Silver
+457,,,,,,,Silver
+458,,,,,,,Silver
+459,,,,,,,Silver
+460,,,,,,,Silver
+461,,,,,,,Silver
+462,,,,,,,Silver
+463,,,,,,,Silver
+464,,,,,,,Silver
+465,,,,,,,Silver
+466,,,,,,,Silver
+467,,,,,,,Silver
+468,,,,,,,Bronze
+469,,,,,,,Bronze
+470,,,,,,,Silver
+471,,,,,,,Silver
+472,,,,,,,Silver
+473,,,,,,,Silver
+474,,,,,,,Silver
+475,,,,,,,Bronze
+476,,,,,,,Silver
+477,,,,,,,Silver
+478,,,,,,,Silver
+479,,,,,,,Silver
+480,,,,,,,Silver
+481,,,,,,,Silver
+482,,,,,,,Silver
+483,,,,,,,Silver
+484,,,,,,,Silver
+485,,,,,,,Silver
+486,,,,,,,Silver
+487,,,,,,,Silver
+488,,,,,,,Silver
+489,,,,,,,Silver
+490,,,,,,,Silver
+491,,,,,,,Silver
+492,,,,,,,Silver
+493,,,,,,,Silver
+494,,,,,,,Silver
+495,,,,,,,Silver
+496,,,,,,,Silver
+497,,,,,,,Silver
+498,,,,,,,Silver
+499,,,,,,,Silver
